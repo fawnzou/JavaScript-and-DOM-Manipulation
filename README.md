@@ -20,7 +20,7 @@ Set multiple filters and search for UFO sightings using the following criteria b
 
 * [UFO Sightings Data](static/js/data.js)
 
-## Check the final application screenshot
+## Check the final application
 
 https://fawnzou.github.io/UFO-Sightings/
 
