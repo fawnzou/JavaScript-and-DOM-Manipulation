@@ -22,7 +22,7 @@ Set multiple filters and search for UFO sightings using the following criteria b
 
 ## Check the final application screenshot
 
-![screenshot](Screenshot_UFOFinder.png)
+https://fawnzou.github.io/UFO-Sightings/
 
 
 
